@@ -84,8 +84,5 @@ Testes conceituais:
 * A **lista encadeada** seria escolhida apenas em cenários com alta taxa de remoções/inserções.
 * A **lista estática** não é recomendada para produção, pois limita a escalabilidade e requer definição prévia da capacidade.
 
----
 
-Quer que eu **inclua esse comentário como bloco de documentação direto nos três códigos** (em formato `/* ... */`) já organizando por estrutura?
-Ou prefere que eu **gere um único arquivo `README.md`** pronto para o repositório Git?
 
